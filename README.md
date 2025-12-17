@@ -8,7 +8,7 @@ A real-time audio spectrum visualizer developed in Python using Pygame and Fast 
 - University: Islamic Azad University, Central Tehran Branch
 - Faculty: Faculty of Convergent and Quantum Sciences and Technologies
 - By: Mohammad Hossein Meftah
-- Date: winter 2026
+- Date: 2026
 
   
 ## Project Overview
