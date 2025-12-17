@@ -4,9 +4,13 @@ A real-time audio spectrum visualizer developed in Python using Pygame and Fast 
 
 ## Course Information
 - Course: Computer Graphics
-- Instructor: Dr. Ali Qaderiyan
-- Term: winter 2026
+- Supervisor: Dr. Ali Qaderiyan
+- University: Islamic Azad University, Central Tehran Branch
+- Faculty: Faculty of Convergent and Quantum Sciences and Technologies
+- By: Mohammad Hossein Meftah
+- Date: winter 2026
 
+  
 ## Project Overview
 This project captures real-time audio input from either a microphone or system audio
 and visualizes the frequency spectrum using a dynamic, bar-based interface.
@@ -45,3 +49,13 @@ and includes smoothing and decay mechanisms for more natural visual motion.
 
 ## How to Run
 1. Install dependencies:
+pip install pygame numpy pyaudiowpatch
+2. Run the application:
+
+## Demo Video
+A demonstration video showing the real-time audio visualization,
+input switching between microphone and system audio,
+and sensitivity adjustment based on volume levels.
+
+Demo Video (Google Drive):
+https://drive.google.com/file/d/147sdy1D8exhdAi0EPskCucSO9hpMbH4T/view
